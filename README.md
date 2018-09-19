@@ -4,4 +4,4 @@ Just another Hacker News Reader with updated Firebase libraries and syntax. Writ
 Frameworks :
 1. Firebase
 
-https://i.imgrpost.com/imgr/2018/09/19/final.jpg
+![](https://i.imgrpost.com/imgr/2018/09/19/final.jpg) 
